@@ -1,5 +1,8 @@
 # vietnamese
 
+![GitHub License](https://img.shields.io/github/license/kreier/vietnamese)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/vietnamese)
+
 Collect vocabulary, grammar and resources to learn Vietnamese.
 
 ## Books

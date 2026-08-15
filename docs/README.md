@@ -11,6 +11,8 @@ Collect vocabulary, grammar and resources to learn Vietnamese.
 - VSL3 from 2005
 - VSL4 from 2004
 
+<img src="books/VSL3/cover_VSL3.jpg" width="25%"> <img src="books/VSL4/cover_VSL4.jpg" width="25%">
+
 An excerpt of the first 6 pages can be viewed online at [https://vlc.hcmussh.edu.vn/index.php/books/](https://vlc.hcmussh.edu.vn/index.php/books/).
 
 ### University of Education HCM, hcmue.edu.vn

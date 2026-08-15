@@ -1,5 +1,8 @@
 # vietnamese
 
+![GitHub License](https://img.shields.io/github/license/kreier/vietnamese)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/vietnamese)
+
 Collect vocabulary, grammar and resources to learn Vietnamese.
 
 ## Books
@@ -9,7 +12,7 @@ Collect vocabulary, grammar and resources to learn Vietnamese.
 - VSL1 from 2019
 - VSL2 from 2012, 2019
 - VSL3 from 2005
-- VSL4 from 2004
+- VSL4 from 2004 [link to pdf](books/VSL4/VSL4.pdf)
 
 <img src="books/VSL3/cover_VSL3.jpg" width="25%"> <img src="books/VSL4/cover_VSL4.jpg" width="25%">
 

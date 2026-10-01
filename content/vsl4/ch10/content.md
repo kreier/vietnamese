@@ -1,97 +1,50 @@
 ---
-
 book: vsl4
-chapter: ch03
-number: 3
-title: [Chapter 3 title]
-------------------------
+chapter: ch10
+number: 10
+title: "Chị làm như già lắm rồi vậy (Bài ôn tập)"
+---
 
-# [Chapter 3 title]
+# Chị làm như già lắm rồi vậy
 
-## Giới thiệu
+## Ôn tập tổng hợp Chapters 6–9
 
-[Introduction text]
-
-## Ý kiến của bạn
-
-### 1. [Câu hỏi 1]
-
-[Question text]
-
-### 2. [Câu hỏi 2]
-
-[Question text]
-
-### 3. [Câu hỏi 3]
-
-[Question text]
+### Ý kiến thảo luận
+1. Theo bạn, tại sao phần lớn thanh niên ở những nước đang phát triển muốn sống ở thành thị hơn ở nông thôn?
+2. Bạn thấy có cần thiết phải giữ gìn tất cả những phong tục tập quán đã có từ lâu đời của một dân tộc không? Vì sao?
 
 ---
 
-## 1. HỘI THOẠI MẪU
+#### 1. TỪ VỰNG ÔN TẬP
+*(êm ả / thoải mái / gốc / theo dõi / mai mốt / văn hoá / trái đất / căng thẳng / lạc hậu)*
 
-[Dialogue text]
-
----
-
-## 2. TỪ VỰNG
-
-### 2.1 Điền từ thích hợp vào chỗ trống trong đoạn văn dưới đây
-
-[Exercise text]
-
-### 2.2 Xem lại đoạn văn trong phần Giới thiệu, tìm nghĩa thích hợp
-
-[Exercise text]
+1. Anh ấy đang say mê **theo dõi** trận chung kết Cúp C1.
+2. Thể thao mang lại niềm vui cho tất cả mọi người trên **trái đất**.
+3. Họ thường nhớ về miền quê **êm ả** của mình.
+4. Mọi người đang cố gắng bảo vệ **văn hoá** truyền thống của nước mình.
 
 ---
 
-## 3. THỰC HÀNH NGHE
+#### 2. THỰC HÀNH NGHE & VIẾT (Bài ôn tập)
 
-[Listening exercise text]
+##### 2.1 Ôn tập cấu trúc "...cho rồi":
+- *Thứ bảy này Nam không biết đi đâu, sao không ở nhà nghỉ ngơi cho rồi.*
 
----
+##### 2.2 Danh từ hoá tính từ/động từ với "cái":
+*Ví dụ:* Máy tính xách tay tiện lợi ở chỗ nó gọn, nhẹ.  
+→ *Cái tiện lợi* của máy tính xách tay là ở chỗ nó gọn, nhẹ.
 
-## 4. THỰC HÀNH VIẾT
-
-### 4.1 Bạn có thể viết những điều kiện gì để hoàn chỉnh những câu dưới đây?
-
-[Exercise text]
-
-### 4.2 Chọn từ đúng ([từ 1]/[từ 2]) để điền vào các câu dưới đây
-
-[Exercise text]
-
-### 4.3 Nối hai câu thích hợp lại với nhau
-
-[Exercise text]
+##### 2.3 Phân biệt "chính" và "tự":
+- **chính**: nhấn mạnh đối tượng ("chính Thanh Hoà mang lại huy chương vàng...").
+- **tự**: nhấn mạnh hành động tự thân ("tôi muốn đi đến đó mà không cần người hướng dẫn, tôi tự đi").
 
 ---
 
-## 5. BÀI ĐỌC
+#### 3. BÀI ĐỌC TỔNG HỢP
 
-[Reading text]
+Tôi sinh ra và lớn lên ở ngoài Bắc. Khi tôi lên sáu thì bố mẹ tôi chuyển nhà vào Nam. Những ngày mới vào Nam, gia đình tôi sống ở thôn quê... Bây giờ, tôi đã là một kỹ sư vi tính. Tôi đang để ý đến một cô gái cùng cơ quan...
 
 ---
 
-## 6. GHI CHÚ
-
-### 1. [Ngữ pháp / từ vựng 1]
-
-[Explanation]
-
-### 2. [Ngữ pháp / từ vựng 2]
-
-[Explanation]
-
-### 3. [Ngữ pháp / từ vựng 3]
-
-[Explanation]
-
-#### a) [Subsection]
-
-[Explanation]
-
-#### b) [Subsection]
-
-[Explanation]
+#### 4. GHI CHÚ TỔNG HỢP
+Củng cố toàn bộ các cấu trúc trọng tâm trong Giáo trình Tiếng Việt 4 (VSL 4).

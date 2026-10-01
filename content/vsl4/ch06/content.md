@@ -1,97 +1,88 @@
 ---
-
 book: vsl4
-chapter: ch03
-number: 3
-title: [Chapter 3 title]
-------------------------
+chapter: ch06
+number: 6
+title: "Nông thôn và thành thị"
+---
 
-# [Chapter 3 title]
+# Nông thôn và thành thị
 
 ## Giới thiệu
 
-[Introduction text]
+Người Sài Gòn khi làm quen với nhau thường hỏi nhau: "Quê anh/chị ở đâu?". Câu trả lời thường là "Quê tôi ở dưới Vĩnh Long", "Quê tôi ở dưới Cà Mau" hay có khi là "Quê tôi ở ngoài Trung", "Quê tôi ở ngoài Bắc"... Các câu trả lời kiểu như vậy cho thấy phần lớn người Sài Gòn không phải là dân gốc Thành phố mà họ đến từ các miền khác nhau của đất nước.
 
 ## Ý kiến của bạn
 
-### 1. [Câu hỏi 1]
-
-[Question text]
-
-### 2. [Câu hỏi 2]
-
-[Question text]
-
-### 3. [Câu hỏi 3]
-
-[Question text]
+### 1. Theo bạn, cuộc sống ở nông thôn và cuộc sống ở thành thị khác nhau thế nào? Đâu là điểm thuận lợi, đâu là điểm bất lợi?
+### 2. Đối với một số người, nông thôn chỉ là nơi để họ đến nghỉ ngơi, thư giãn sau thời gian làm việc căng thẳng ở thành phố chứ không phải là nơi lý tưởng để họ sống suốt đời. Bạn nghĩ gì về điều này?
 
 ---
 
-## 1. HỘI THOẠI MẪU
+#### 1. HỘI THOẠI MẪU
 
-[Dialogue text]
+**Hai cha con nói chuyện với nhau về quê hương.**
 
----
-
-## 2. TỪ VỰNG
-
-### 2.1 Điền từ thích hợp vào chỗ trống trong đoạn văn dưới đây
-
-[Exercise text]
-
-### 2.2 Xem lại đoạn văn trong phần Giới thiệu, tìm nghĩa thích hợp
-
-[Exercise text]
+##### Mẫu câu cần ghi nhớ:
+- Con có mệt *thì* ngủ đi.
+- *Thì* con nghĩ như vậy.
+- *Cũng* chưa biết *nữa*.
 
 ---
 
-## 3. THỰC HÀNH NGHE
+#### 2. TỪ VỰNG
 
-[Listening exercise text]
+##### 2.1 Chọn từ thích hợp điền vào chỗ trống:
+*(câu cá / gồm có / vùng đất / cuộc sống / đến / xung quanh)*
 
----
+Nhóm chúng tôi (1) **gồm có** năm người. Ngoài tôi và Lan là hai người gốc Thành phố, ba người còn lại đến từ ba tỉnh khác nhau...
 
-## 4. THỰC HÀNH VIẾT
+##### 2.2 Dùng từ "gốc" để chỉ nguồn gốc hoặc nơi sinh ra:
+*Ví dụ:* Vũ là người Việt nhưng bây giờ anh ấy sống ở Mỹ và mang quốc tịch Mỹ.  
+→ Anh Vũ là người *Mỹ gốc Việt*.
 
-### 4.1 Bạn có thể viết những điều kiện gì để hoàn chỉnh những câu dưới đây?
-
-[Exercise text]
-
-### 4.2 Chọn từ đúng ([từ 1]/[từ 2]) để điền vào các câu dưới đây
-
-[Exercise text]
-
-### 4.3 Nối hai câu thích hợp lại với nhau
-
-[Exercise text]
+1. Tiêu Thuý là người Hoa, bây giờ gia đình Tiêu Thuý đang sống ở Chợ Lớn.  
+→ Tiêu Thuý là người *Việt gốc Hoa*.
 
 ---
 
-## 5. BÀI ĐỌC
-
-[Reading text]
+#### 3. THỰC HÀNH NGHE
+Nghe đối thoại về cuộc sống quê nhà và dự định làm việc sau khi tốt nghiệp.
 
 ---
 
-## 6. GHI CHÚ
+#### 4. THỰC HÀNH VIẾT
 
-### 1. [Ngữ pháp / từ vựng 1]
+##### 4.1 Dùng kết cấu "có ... thì ...":
+*Ví dụ:* Hè này anh *có* về quê *thì* cho tôi đi cùng với nhé.
 
-[Explanation]
+##### 4.2 Danh từ hoá tính từ/động từ bằng từ "cái":
+*Ví dụ:* Cuộc sống ở đây thú vị nhưng đôi khi cũng căng thẳng.  
+→ Cuộc sống ở đây có *cái thú vị* nhưng đôi khi cũng có *cái căng thẳng*.
 
-### 2. [Ngữ pháp / từ vựng 2]
+##### 4.3 Sắp xếp từ chỉ phương hướng (ra, vào, lên, xuống, trên, dưới, trong, ngoài):
+- *Sài Gòn lên Đà Lạt* (vùng cao)
+- *Hà Nội vào Nha Trang* (vào Nam)
+- *Dưới quê lên Thành phố*
 
-[Explanation]
+---
 
-### 3. [Ngữ pháp / từ vựng 3]
+#### 5. BÀI ĐỌC: NÔNG THÔN VÀ THÀNH THỊ
 
-[Explanation]
+---
 
-#### a) [Subsection]
+#### 6. GHI CHÚ
 
-[Explanation]
+1. **có...thì...**: kết cấu dùng để biểu thị quan hệ giả thiết – kết quả.  
+   *Vd:* Anh **có** đi bưu điện **thì** mua giùm tôi một cái phong bì nhé.
 
-#### b) [Subsection]
+2. **cũng...nữa**: kết cấu biểu thị ý khẳng định về một sự giống nhau của trạng thái, hoạt động.  
+   *Vd:* Nó thích sống ở quê, tôi **cũng** thích sống ở quê **nữa**.
 
-[Explanation]
+3. **cái**: yếu tố danh từ hoá dùng trước tính từ hay một động từ để biến tính từ hay động từ đó thành danh từ.  
+   *Vd:* **Cái ồn ào** của thành phố làm ông Ba khó chịu.
+
+4. **Cách nói vị trí địa lý có tính quy ước trong tiếng Việt**:  
+   - *vào Nam / ra Bắc*  
+   - *lên Đoài (=Tây) / xuống Đông*  
+   - *trên núi (rừng) / dưới biển*  
+   - *dưới quê / lên Thành phố*

@@ -1,97 +1,68 @@
 ---
-
 book: vsl4
-chapter: ch03
-number: 3
-title: [Chapter 3 title]
-------------------------
+chapter: ch08
+number: 8
+title: "Thể thao"
+---
 
-# [Chapter 3 title]
+# Thể thao
 
 ## Giới thiệu
 
-[Introduction text]
+Bạn thích môn thể thao nào nhất? Bạn có bao giờ cảm thấy ngạc nhiên và xúc động trước cảnh tượng hàng chục ngàn người cùng hồi hộp, vui, buồn khi theo dõi một trận đấu căng thẳng giữa hai nhà vô địch không?
 
 ## Ý kiến của bạn
 
-### 1. [Câu hỏi 1]
-
-[Question text]
-
-### 2. [Câu hỏi 2]
-
-[Question text]
-
-### 3. [Câu hỏi 3]
-
-[Question text]
+### 1. Khi còn học ở trung học, bạn đã tham gia những môn thể thao nào?
+### 2. Người ta gọi bóng đá là môn "thể thao vua". Theo bạn, vì sao lại gọi như vậy?
 
 ---
 
-## 1. HỘI THOẠI MẪU
+#### 1. HỘI THOẠI MẪU
 
-[Dialogue text]
-
----
-
-## 2. TỪ VỰNG
-
-### 2.1 Điền từ thích hợp vào chỗ trống trong đoạn văn dưới đây
-
-[Exercise text]
-
-### 2.2 Xem lại đoạn văn trong phần Giới thiệu, tìm nghĩa thích hợp
-
-[Exercise text]
+##### Mẫu câu cần ghi nhớ:
+- Trận đấu *thật là* căng thẳng!
+- Đợi lâu quá. Sao không bắt đầu *cho rồi*.
+- Tôi cũng có xem bóng đá, *có điều* là không quá mê như anh.
+- *Thật ra* thì trước đây cô ấy chẳng hiểu gì về bóng đá cả.
+- *May mà* bà xã tôi không thích bóng đá, *không thì* căng lắm.
 
 ---
 
-## 3. THỰC HÀNH NGHE
+#### 2. TỪ VỰNG
 
-[Listening exercise text]
+##### 2.1 Tên các môn thể thao:
+Bóng chuyền, đua xe đạp, nhảy cao, chạy 100 mét, bóng rổ, cầu lông, cờ vua, quần vợt, bóng đá.
 
----
-
-## 4. THỰC HÀNH VIẾT
-
-### 4.1 Bạn có thể viết những điều kiện gì để hoàn chỉnh những câu dưới đây?
-
-[Exercise text]
-
-### 4.2 Chọn từ đúng ([từ 1]/[từ 2]) để điền vào các câu dưới đây
-
-[Exercise text]
-
-### 4.3 Nối hai câu thích hợp lại với nhau
-
-[Exercise text]
+##### 2.2 Điền từ thích hợp:
+*(trò chơi / vận động viên / quan tâm / thi đấu / bóng rổ / chấn thương)*
 
 ---
 
-## 5. BÀI ĐỌC
+#### 3. THỰC HÀNH VIẾT & NGỮ PHÁP
 
-[Reading text]
+##### 3.1 Dùng tổ hợp "cho rồi" ở cuối câu:
+*Ví dụ:* Đợi lâu quá. Sao không bắt đầu *cho rồi*?
+
+##### 3.2 Dùng "thật ra / thực ra":
+*Ví dụ:* A: Chị rành về bóng đá quá nhỉ.  
+B: *Thật ra* thì tôi đâu có rành. Tôi chỉ nghe ông xã nói lại thôi.
 
 ---
 
-## 6. GHI CHÚ
+#### 4. GHI CHÚ
 
-### 1. [Ngữ pháp / từ vựng 1]
+1. **thật là / thực là**: tổ hợp dùng trước tính từ, biểu thị ý "ở mức độ cao".  
+   *Vd:* Anh ấy chơi bóng **thật là** hay.
 
-[Explanation]
+2. **cho rồi**: tổ hợp biểu thị ý "làm việc gì đó để không bị rắc rối, phiền phức".  
+   *Vd:* Thôi, không mua được vé thì ở nhà xem ti vi **cho rồi**.
 
-### 2. [Ngữ pháp / từ vựng 2]
+3. **có điều**: tổ hợp biểu thị điều sắp nêu là một trường hợp khác hay trái với điều đã nói.  
+   *Vd:* Anh ta là một vận động viên giỏi, **có điều** là hơi vô kỷ luật.
 
-[Explanation]
+4. **thật ra / thực ra**: tổ hợp thường dùng ở đầu câu biểu thị điều sắp nêu ra mới là sự thật.  
+   *Vd:* Anh tưởng tôi vui lắm hả? **Thật ra** thì tôi buồn lắm.
 
-### 3. [Ngữ pháp / từ vựng 3]
-
-[Explanation]
-
-#### a) [Subsection]
-
-[Explanation]
-
-#### b) [Subsection]
-
-[Explanation]
+5. **may mà ... không thì ...**: cách nói biểu thị một sự việc thực tế đã xảy ra là điều may mắn, nếu không thì sẽ xảy ra điều không hay.  
+   *Vd:* **May mà** nó chạy ra kịp, **không thì** mất mạng.

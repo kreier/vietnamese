@@ -1,6 +1,14 @@
 # Synology Diskstation
 .DS_Store
 
+# Astro
+.astro/
+dist/
+
+# Node
+node_modules/
+package-lock.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

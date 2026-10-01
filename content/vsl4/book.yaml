@@ -1,0 +1,35 @@
+id: vsl4
+title: VSL 4
+source: book.pdf
+
+chapters:
+  - id: ch01
+    number: 1
+    title: Ngày ấy
+  - id: ch02
+    number: 2
+    title: ...
+  - id: ch03
+    number: 3
+    title: ...
+  - id: ch04
+    number: 4
+    title: ...
+  - id: ch05
+    number: 5
+    title: ...
+  - id: ch06
+    number: 6
+    title: ...
+  - id: ch07
+    number: 7
+    title: ...
+  - id: ch08
+    number: 8
+    title: ...
+  - id: ch09
+    number: 9
+    title: ...
+  - id: ch10
+    number: 10
+    title: ...
